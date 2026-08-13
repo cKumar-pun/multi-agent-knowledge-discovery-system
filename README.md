@@ -1,4 +1,4 @@
-# 🤖 Multi-Agent Knowledge Discovery System
+#  Multi-Agent Knowledge Discovery System
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Workflow-FF6F00.svg?style=flat)](https://github.com/langchain-ai/langgraph)
@@ -11,7 +11,7 @@ A state-of-the-art **collaborative multi-agent research assistant** built with *
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
 - **🧠 Autonomous Multi-Agent Architecture**: Built on LangGraph cyclical state graphs for coordinated collaboration.
 - **⚡ 100% Free LLM Options**:
@@ -31,7 +31,7 @@ A state-of-the-art **collaborative multi-agent research assistant** built with *
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```mermaid
 flowchart TD
@@ -183,6 +183,4 @@ The output will be saved to `assets/research_graph.png`.
 
 ---
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
